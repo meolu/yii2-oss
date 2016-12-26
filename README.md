@@ -1,4 +1,4 @@
-###yii2-aliyun-oss
+###yii2-oss
 
 阿里云OSS官方SDK的Composer封装，支持Yii2。
 基于https://github.com/johnlui/AliyunOSS 修改，感谢johnlui写的这个，对我开发很有帮助，我将这个支持Yii2了，并且开源出来，希望能帮到更多人。
