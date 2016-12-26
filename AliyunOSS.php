@@ -1,6 +1,6 @@
 <?php
 
-namespace chonder\AliyunOSS;
+namespace meolu\AliyunOSS;
 
 require_once __DIR__.'/oss/aliyun.php';
 
